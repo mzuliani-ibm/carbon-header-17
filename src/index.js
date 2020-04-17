@@ -13,7 +13,7 @@ import {
 } from "carbon-components-react/lib/components/UIShell";
 
 import "./style.css";
-import "https://unpkg.com/carbon-components@10.10.3/css/carbon-components.min.css";
+import "//unpkg.com/carbon-components@10.10.3/css/carbon-components.min.css";
 
 const App = () => (
   <div className="container">
